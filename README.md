@@ -8,3 +8,6 @@ Prerequisites:
 - npm
 - Google Chrome browser
 - Chromedriver (compatible version)
+## Run a Single Test
+go to terminal
+- "node tests/login.test.js"
